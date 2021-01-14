@@ -4,9 +4,19 @@
 
 #### 作者（小组成员）:
 
-报告撰写人：李怡洁
-Markdown编辑：高鹏
-信息收集及部分报告撰写：胡允浩、韦鸿予、唐义炜、吴娅玲、
+报告撰写人：李怡洁 Github ID:lyj7777
+
+Markdown编辑：高鹏 Github ID：trounique
+
+信息收集及部分报告撰写：
+
+胡允浩 Github ID：James-huyunhao
+
+韦鸿予 Github ID：why
+
+唐义炜 Github ID：tywhhh
+
+吴娅玲 Github ID：18281
 
 备注：可能图片在github上会加载失败，请下载到电脑上用markdown阅读器打开，推荐Typora。
 
