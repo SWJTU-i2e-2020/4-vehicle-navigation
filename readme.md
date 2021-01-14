@@ -10,7 +10,9 @@
 
 吴娅玲 Github ID：18281
 
-Markdown编辑：高鹏 Github ID：trounique
+Markdown编辑：
+
+高鹏 Github ID：trounique
 
 信息收集及部分报告撰写：
 
